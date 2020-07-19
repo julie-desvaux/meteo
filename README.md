@@ -1,14 +1,15 @@
-# POKEDEX (React)
+# METEO
 
 ## Description :
-* Site créer lors du Mooc Udemy React 16: Développer votre première application (Hooks,2020).
-* Permet d'ajouter, modifier, supprimer un Pokémon après s'être authentifier
+* Site permetant d'obtenir la météo à partir de la géolocalisation.
+* Si la géolocalisation n'est pas activée, la ville par défaut est Paris.
+* Vous pouvez changer de ville en cliquant sur le bouton changer de ville en bas de la page
 
 ## Technologies utilisées :
 * HTML 5
 * CSS 3
-* React
+* JS
 
 
 ## 
-![Visuel](http://julie-desvaux.com/images/pokedex.png "Visuel")
+![Visuel](http://julie-desvaux.com/images/meteo.png "Visuel")
