@@ -1,4 +1,4 @@
-# Meteo
+# POKEDEX (React)
 
 ## Description :
 * Site créer lors du Mooc Udemy React 16: Développer votre première application (Hooks,2020).
